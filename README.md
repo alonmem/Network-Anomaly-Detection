@@ -4,7 +4,7 @@ Real time anomaly detection using a Autoencoder LSTM model.
 
 ![](https://preview.ibb.co/fjEWZT/example.jpg)
 
-[example video](http://google.com/) of the system.
+[example video](https://youtu.be/LxomfnMEWNU) of the system.
 
 
 ### running
