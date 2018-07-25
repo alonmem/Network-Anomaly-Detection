@@ -1,1 +1,1 @@
-# Network Anmaly Detection
+# Network Anomaly Detection
