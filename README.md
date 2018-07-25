@@ -1,6 +1,6 @@
 # Network Anomaly Detection
-A network anomaly detection system.<br/>
-Real time Anomaly detection using a Autoencoder LSTM model.
+A deep learning network anomaly detection system.<br/>
+Real time anomaly detection using a Autoencoder LSTM model.
 
 ![](https://preview.ibb.co/fjEWZT/example.jpg)
 
