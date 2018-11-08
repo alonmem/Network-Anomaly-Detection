@@ -122,7 +122,7 @@ def train(autoencoder, train, temp_save_path, nb_epoch = 100, batch_size = 32):
                         verbose = 0,
                         callbacks=[checkpointer, my_history]).history
         
-
+'''
 def test_filter(all_packets):
     ''' generate random data for testing'''
     list_of_values = []
@@ -207,5 +207,5 @@ def test_filter(all_packets):
         temp_list.append(0)
         
         list_of_values.append(temp_list)
-
+'''
     return list_of_values
