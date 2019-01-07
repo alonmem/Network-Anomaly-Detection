@@ -24,7 +24,7 @@ import logging
 logging.getLogger("scapy.runtime").setLevel(logging.ERROR)
 from scapy.all import *
 
-save_path = "model_data/test_overfit/"
+save_path = "model_data/"
 
 sequence_length = 100
 
